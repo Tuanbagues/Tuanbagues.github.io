@@ -1,9 +1,9 @@
 ---
-name: Custom issue template
+name: Tuanbagues
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+title: 'Blogger'
+labels: 'Ngeblog'
+assignees: '-'
 
 ---
 
